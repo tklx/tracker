@@ -2,4 +2,4 @@
 
 * [Issue Tracker][issues]: used to report and track bugs, issues and features.
 
-[issues]: https://github.com/turnkeylinux/tracker/issues/
+[issues]: https://github.com/tklx/tracker/issues/
